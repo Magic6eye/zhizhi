@@ -1,0 +1,13 @@
+node_modules/
+release/
+*.log
+logs/
+config.json
+pending-tasks.jsonl
+window-state.json
+main-crash.log
+placement.log
+*.exe
+electron/logs/
+electron/release/
+.DS_Store

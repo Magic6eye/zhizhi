@@ -59,9 +59,18 @@
 
 **声音？** 暂无语音，台词以气泡呈现。
 
+## Mac 版
+
+**方式一（推荐）**：直接下载本仓库的 `zhizhi-mac-arm64.dmg`（Apple Silicon：M1/M2/M3/M4 芯片）
+或 `zhizhi-mac-x64.dmg`（Intel 芯片）——双击打开，把「芝芝」拖进「应用程序」文件夹。
+首次打开若提示「无法验证开发者」：**右键应用 → 打开**（或 系统设置 → 隐私与安全性 → 仍要打开）。
+
+> Mac 版功能与 Windows 版一致（托盘、拖拽走路、右键菜单、对话、读取记忆）。
+> 读取记忆读取的是 `~/.zcode/cli/rollout/`（Mac 与 Windows 路径结构相同）。
+
 ---
 
-v0.4.6 · 形象：豆包生成 · 引擎：Electron + 原生 HTML/CSS/JS · 仅支持 Windows x64
+v0.4.6 · 形象：豆包生成 · 引擎：Electron + 原生 HTML/CSS/JS · 支持 Windows x64 与 macOS（Apple Silicon/Intel）
 
 作者 一只挖掘机
 
